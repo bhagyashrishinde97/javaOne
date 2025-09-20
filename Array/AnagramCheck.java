@@ -13,6 +13,7 @@ public class AnagramCheck {
     }
 
     public static void main(String[] args) {
+        System.out.println("this change");
         String str1 = "listen";
         String str2 = "silent";
         if (areAnagram(str1, str2)) {
